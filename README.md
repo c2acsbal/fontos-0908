@@ -6,6 +6,6 @@
 
 - Git
 
-## Ai technológiák
+## kép
 
 ![alt text](kep.png)
