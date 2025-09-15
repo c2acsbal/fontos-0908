@@ -1,7 +1,11 @@
-Projekt neve
+# Projekt neve
 
-Projelt leírás
+## Projelt leírás
 
-Technológiák
+### Technológiák
 
-Git
+- Git
+
+## Ai technológiák
+
+![alt text](kep.png)
