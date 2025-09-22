@@ -6,6 +6,10 @@
 
 - Git
 
+
+- NAGYON FONTOS NE TÖRÖLD
+
+
 ## kép
 
 # halál
